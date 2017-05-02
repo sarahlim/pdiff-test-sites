@@ -1,0 +1,16 @@
+[
+  {
+    "name": "airbnb",
+    "selector": "body",
+    "min-width": 1025
+  },
+  {
+    "name": "twitter",
+    "selector": "body",
+    "min-width": 1025
+  },
+  {
+    "name": "tumblr",
+    "selector": "body"
+  }
+]
