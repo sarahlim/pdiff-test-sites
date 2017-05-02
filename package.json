@@ -1,0 +1,13 @@
+{
+  "name": "ply-examples",
+  "version": "0.0.1",
+  "description": "example sites for testing pruning",
+  "main": "server.js",
+  "repository": "https://github.com/sarahlim/ply-examples.git",
+  "author": "Sarah Lim <sarah@sarahlim.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "serve-index": "^1.8.0"
+  }
+}
