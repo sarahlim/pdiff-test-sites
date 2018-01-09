@@ -1,16 +1,25 @@
 [
-  {
-    "name": "airbnb",
-    "selector": "body",
-    "min-width": 1025
-  },
-  {
-    "name": "twitter",
-    "selector": "body",
-    "min-width": 1025
-  },
-  {
-    "name": "tumblr",
-    "selector": "body"
-  }
+	{
+		"name": "airbnb",
+		"selector": "body",
+		"min-width": 1025
+	},
+	{
+		"name": "twitter",
+		"selector": "body",
+		"min-width": 1025
+	},
+	{
+		"name": "tumblr",
+		"selector": "body"
+	},
+	{
+		"name": "youtube",
+		"selector": "#item-section-180710 > li > div > div.feed-item-dismissable > div.compact-shelf.yt-uix-shelfslider.yt-uix-shelfslider-at-head<Paste>"
+	},
+	{
+		"name": "ideo",
+		"delay": 100,
+		"selector": "#root > div > span > div > div.HomeHeader > div > div"
+	}
 ]
